@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Asp.Net\\MVC6Crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE1EC10-4E5E-4FBB-BFE4-D08E8B8AFE8D}|MVC6Crud\\MVC6Crud.csproj|c:\\asp.net\\mvc6crud\\mvc6crud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE1EC10-4E5E-4FBB-BFE4-D08E8B8AFE8D}|MVC6Crud\\MVC6Crud.csproj|solutionrelative:mvc6crud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE1EC10-4E5E-4FBB-BFE4-D08E8B8AFE8D}|MVC6Crud\\MVC6Crud.csproj|c:\\asp.net\\mvc6crud\\mvc6crud\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE1EC10-4E5E-4FBB-BFE4-D08E8B8AFE8D}|MVC6Crud\\MVC6Crud.csproj|solutionrelative:mvc6crud\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE1EC10-4E5E-4FBB-BFE4-D08E8B8AFE8D}|MVC6Crud\\MVC6Crud.csproj|c:\\asp.net\\mvc6crud\\mvc6crud\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE1EC10-4E5E-4FBB-BFE4-D08E8B8AFE8D}|MVC6Crud\\MVC6Crud.csproj|solutionrelative:mvc6crud\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE1EC10-4E5E-4FBB-BFE4-D08E8B8AFE8D}|MVC6Crud\\MVC6Crud.csproj|c:\\asp.net\\mvc6crud\\mvc6crud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE1EC10-4E5E-4FBB-BFE4-D08E8B8AFE8D}|MVC6Crud\\MVC6Crud.csproj|solutionrelative:mvc6crud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE1EC10-4E5E-4FBB-BFE4-D08E8B8AFE8D}|MVC6Crud\\MVC6Crud.csproj|c:\\asp.net\\mvc6crud\\mvc6crud\\viewmodel\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE1EC10-4E5E-4FBB-BFE4-D08E8B8AFE8D}|MVC6Crud\\MVC6Crud.csproj|solutionrelative:mvc6crud\\viewmodel\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE1EC10-4E5E-4FBB-BFE4-D08E8B8AFE8D}|MVC6Crud\\MVC6Crud.csproj|c:\\asp.net\\mvc6crud\\mvc6crud\\data\\clsdb_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE1EC10-4E5E-4FBB-BFE4-D08E8B8AFE8D}|MVC6Crud\\MVC6Crud.csproj|solutionrelative:mvc6crud\\data\\clsdb_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE1EC10-4E5E-4FBB-BFE4-D08E8B8AFE8D}|MVC6Crud\\MVC6Crud.csproj|c:\\asp.net\\mvc6crud\\mvc6crud\\views\\product\\_productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE1EC10-4E5E-4FBB-BFE4-D08E8B8AFE8D}|MVC6Crud\\MVC6Crud.csproj|solutionrelative:mvc6crud\\views\\product\\_productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE1EC10-4E5E-4FBB-BFE4-D08E8B8AFE8D}|MVC6Crud\\MVC6Crud.csproj|c:\\asp.net\\mvc6crud\\mvc6crud\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE1EC10-4E5E-4FBB-BFE4-D08E8B8AFE8D}|MVC6Crud\\MVC6Crud.csproj|solutionrelative:mvc6crud\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE1EC10-4E5E-4FBB-BFE4-D08E8B8AFE8D}|MVC6Crud\\MVC6Crud.csproj|c:\\asp.net\\mvc6crud\\mvc6crud\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE1EC10-4E5E-4FBB-BFE4-D08E8B8AFE8D}|MVC6Crud\\MVC6Crud.csproj|solutionrelative:mvc6crud\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE1EC10-4E5E-4FBB-BFE4-D08E8B8AFE8D}|MVC6Crud\\MVC6Crud.csproj|c:\\asp.net\\mvc6crud\\mvc6crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE1EC10-4E5E-4FBB-BFE4-D08E8B8AFE8D}|MVC6Crud\\MVC6Crud.csproj|solutionrelative:mvc6crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE1EC10-4E5E-4FBB-BFE4-D08E8B8AFE8D}|MVC6Crud\\MVC6Crud.csproj|c:\\asp.net\\mvc6crud\\mvc6crud\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE1EC10-4E5E-4FBB-BFE4-D08E8B8AFE8D}|MVC6Crud\\MVC6Crud.csproj|solutionrelative:mvc6crud\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE1EC10-4E5E-4FBB-BFE4-D08E8B8AFE8D}|MVC6Crud\\MVC6Crud.csproj|c:\\asp.net\\mvc6crud\\mvc6crud\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE1EC10-4E5E-4FBB-BFE4-D08E8B8AFE8D}|MVC6Crud\\MVC6Crud.csproj|solutionrelative:mvc6crud\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE1EC10-4E5E-4FBB-BFE4-D08E8B8AFE8D}|MVC6Crud\\MVC6Crud.csproj|c:\\asp.net\\mvc6crud\\mvc6crud\\data\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE1EC10-4E5E-4FBB-BFE4-D08E8B8AFE8D}|MVC6Crud\\MVC6Crud.csproj|solutionrelative:mvc6crud\\data\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE1EC10-4E5E-4FBB-BFE4-D08E8B8AFE8D}|MVC6Crud\\MVC6Crud.csproj|c:\\asp.net\\mvc6crud\\mvc6crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE1EC10-4E5E-4FBB-BFE4-D08E8B8AFE8D}|MVC6Crud\\MVC6Crud.csproj|solutionrelative:mvc6crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE1EC10-4E5E-4FBB-BFE4-D08E8B8AFE8D}|MVC6Crud\\MVC6Crud.csproj|c:\\asp.net\\mvc6crud\\mvc6crud\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE1EC10-4E5E-4FBB-BFE4-D08E8B8AFE8D}|MVC6Crud\\MVC6Crud.csproj|solutionrelative:mvc6crud\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE1EC10-4E5E-4FBB-BFE4-D08E8B8AFE8D}|MVC6Crud\\MVC6Crud.csproj|c:\\asp.net\\mvc6crud\\mvc6crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3FE1EC10-4E5E-4FBB-BFE4-D08E8B8AFE8D}|MVC6Crud\\MVC6Crud.csproj|solutionrelative:mvc6crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductListViewModel.cs",
+              "DocumentMoniker": "C:\\Asp.Net\\MVC6Crud\\MVC6Crud\\ViewModel\\ProductListViewModel.cs",
+              "RelativeDocumentMoniker": "MVC6Crud\\ViewModel\\ProductListViewModel.cs",
+              "ToolTip": "C:\\Asp.Net\\MVC6Crud\\MVC6Crud\\ViewModel\\ProductListViewModel.cs",
+              "RelativeToolTip": "MVC6Crud\\ViewModel\\ProductListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T17:30:10.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsDB_Product.cs",
+              "DocumentMoniker": "C:\\Asp.Net\\MVC6Crud\\MVC6Crud\\Data\\clsDB_Product.cs",
+              "RelativeDocumentMoniker": "MVC6Crud\\Data\\clsDB_Product.cs",
+              "ToolTip": "C:\\Asp.Net\\MVC6Crud\\MVC6Crud\\Data\\clsDB_Product.cs",
+              "RelativeToolTip": "MVC6Crud\\Data\\clsDB_Product.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAewA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T16:46:58.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Asp.Net\\MVC6Crud\\MVC6Crud\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC6Crud\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Asp.Net\\MVC6Crud\\MVC6Crud\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC6Crud\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T09:58:58.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Asp.Net\\MVC6Crud\\MVC6Crud\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MVC6Crud\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Asp.Net\\MVC6Crud\\MVC6Crud\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MVC6Crud\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T17:20:27.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Asp.Net\\MVC6Crud\\MVC6Crud\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MVC6Crud\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Asp.Net\\MVC6Crud\\MVC6Crud\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MVC6Crud\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T10:06:39.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Asp.Net\\MVC6Crud\\MVC6Crud\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC6Crud\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Asp.Net\\MVC6Crud\\MVC6Crud\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC6Crud\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T16:43:19.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ProductList.cshtml",
+              "DocumentMoniker": "C:\\Asp.Net\\MVC6Crud\\MVC6Crud\\Views\\Product\\_ProductList.cshtml",
+              "RelativeDocumentMoniker": "MVC6Crud\\Views\\Product\\_ProductList.cshtml",
+              "ToolTip": "C:\\Asp.Net\\MVC6Crud\\MVC6Crud\\Views\\Product\\_ProductList.cshtml",
+              "RelativeToolTip": "MVC6Crud\\Views\\Product\\_ProductList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T16:10:47.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Asp.Net\\MVC6Crud\\MVC6Crud\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MVC6Crud\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Asp.Net\\MVC6Crud\\MVC6Crud\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MVC6Crud\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T17:30:04.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Asp.Net\\MVC6Crud\\MVC6Crud\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MVC6Crud\\Models\\Category.cs",
+              "ToolTip": "C:\\Asp.Net\\MVC6Crud\\MVC6Crud\\Models\\Category.cs",
+              "RelativeToolTip": "MVC6Crud\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T17:29:59.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Asp.Net\\MVC6Crud\\MVC6Crud\\Program.cs",
+              "RelativeDocumentMoniker": "MVC6Crud\\Program.cs",
+              "ToolTip": "C:\\Asp.Net\\MVC6Crud\\MVC6Crud\\Program.cs",
+              "RelativeToolTip": "MVC6Crud\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T16:30:01.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Asp.Net\\MVC6Crud\\MVC6Crud\\Data\\UserService.cs",
+              "RelativeDocumentMoniker": "MVC6Crud\\Data\\UserService.cs",
+              "ToolTip": "C:\\Asp.Net\\MVC6Crud\\MVC6Crud\\Data\\UserService.cs",
+              "RelativeToolTip": "MVC6Crud\\Data\\UserService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAD4vxAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T16:47:00.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Asp.Net\\MVC6Crud\\MVC6Crud\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "MVC6Crud\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Asp.Net\\MVC6Crud\\MVC6Crud\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "MVC6Crud\\Views\\Login\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T14:21:24.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Asp.Net\\MVC6Crud\\MVC6Crud\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "MVC6Crud\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Asp.Net\\MVC6Crud\\MVC6Crud\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "MVC6Crud\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:16:27.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Asp.Net\\MVC6Crud\\MVC6Crud\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC6Crud\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Asp.Net\\MVC6Crud\\MVC6Crud\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC6Crud\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T10:05:23.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Asp.Net\\MVC6Crud\\MVC6Crud\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVC6Crud\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Asp.Net\\MVC6Crud\\MVC6Crud\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVC6Crud\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T16:12:49.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Asp.Net\\MVC6Crud\\MVC6Crud\\appsettings.json",
+              "RelativeDocumentMoniker": "MVC6Crud\\appsettings.json",
+              "ToolTip": "C:\\Asp.Net\\MVC6Crud\\MVC6Crud\\appsettings.json",
+              "RelativeToolTip": "MVC6Crud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T14:49:37.848Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

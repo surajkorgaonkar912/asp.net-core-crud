@@ -1,0 +1,22 @@
+﻿
+create database MVC6CrudDb
+use MVC6CrudDb
+drop table Categories
+create table Categories(CategoryId int identity(1,1),CategoryName varchar(50))
+insert into Categories(CategoryName) values ('Phones')
+create table Products(id int identity(1,1),Name varchar(50),Description varchar(50),Color varchar(10),Price decimal(18,2),Image varchar(max),CategoryId int)
+
+CREATE TABLE Roles (
+    RoleId INT PRIMARY KEY IDENTITY,
+    RoleName NVARCHAR(50) NOT NULL
+);
+
+CREATE TABLE Users (
+    UserId INT PRIMARY KEY IDENTITY,
+    Username NVARCHAR(50) NOT NULL,
+    PasswordHash NVARCHAR(255) NOT NULL,
+    RoleId INT FOREIGN KEY REFERENCES Roles(RoleId)
+);
+INSERT INTO Roles(RoleName)VALUES('Maker'),('Checker')
+INSERT INTO Users (Username,PasswordHash,RoleId) values
+('suraj-m','Test@123',1),('suraj-c','Test@123',2)

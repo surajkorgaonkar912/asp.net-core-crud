@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@using MVC6Crud.ViewModel
+@model List<ProductListViewModel>
+
+<div class="text-center" style="border:dashed;color:red;">
+    <h1 class="display-4"> Home index html</string></h1>
+    <h2 class="text-center mb-4">Product List</h2>
+    @Html.Partial("_ProductList", Model)
+    
+</div>

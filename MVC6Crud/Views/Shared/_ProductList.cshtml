@@ -1,0 +1,42 @@
+﻿@model List<MVC6Crud.ViewModel.ProductListViewModel>
+
+<table class="table table-light table-hover">
+    <thead class="table-light">
+        <tr>
+            <th scope="col">Product Name</th>
+            <th scope="col">Description</th>
+            <th scope="col">Price</th>
+            <th scope="col">Color</th>
+            <th scope="col">Category</th>
+            <th scope="col">Image</th>
+            <th class="text-center">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td width="15%">@item.Name</td>
+                <td width="15%">@item.Description</td>
+                <td width="10%">@item.Price</td>
+                <td width="10%">@item.Color</td>
+                <td width="10%">@item.CategoryName</td>
+                <td width="20%">
+                    <img src="@item.Image" class="img-thumbnail" style="max-width: 100px;" />
+                </td>
+                <td class="text-center">
+                    <a asp-controller="Product" asp-action="Edit" asp-route-id="@item.Id" class="btn btn-success btn-sm">Edit</a>
+                    <button class="btn btn-danger btn-sm" onclick="confirmDelete('@item.Id')">Delete</button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<script>
+    function confirmDelete(id) {
+        if (confirm("Are you sure you want to delete this product?")) {
+            window.location.href = '@Url.Action("Delete", "Product")/' + id;
+        }
+    }
+</script>
